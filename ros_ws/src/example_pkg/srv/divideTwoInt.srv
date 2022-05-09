@@ -1,0 +1,4 @@
+int32 requested_value1
+int32 requested_value2 
+---
+float32 response_value
