@@ -13,7 +13,9 @@ Contains sample scripts and instructions to learn ROS basics
 `5. roslaunch example_pkg launch_all.launch`
 
 To view the active topics
+
 `1. rostopic list`
+
 
 To listen to a topic
 `1. rostopic echo <topic name>`
