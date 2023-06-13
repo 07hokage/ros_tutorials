@@ -18,6 +18,7 @@ To view the active topics
 
 
 To listen to a topic
+
 `1. rostopic echo <topic name>`
   
  
