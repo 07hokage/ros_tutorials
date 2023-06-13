@@ -9,8 +9,10 @@ Contains sample scripts and instructions to learn ROS basics
 
 `4. catkin_make`
 
+`5. source devel/setup.bash`
 
-`5. roslaunch example_pkg launch_all.launch`
+
+`6. roslaunch example_pkg launch_all.launch`
 
 To view the active topics
 
